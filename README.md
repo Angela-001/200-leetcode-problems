@@ -13,4 +13,4 @@ Happy Coding :)
 
 |**Day:pushpin:**|**Date &nbsp;:calendar:**|**Problem/Task Done :alarm_clock:**| **Reference Links :link:**|
 |------|-----------------|--------------------|---------------------|
-|Day 1|November 19, 2021| Two Sum | [Problem](https://leetcode.com/problems/two-sum/)|
+|Day 1|November 20, 2021| Two Sum | [Problem](https://leetcode.com/problems/two-sum/)|
