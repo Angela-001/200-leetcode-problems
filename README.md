@@ -21,3 +21,8 @@ Happy Coding :)
 |Day 4|November 23, 2021| Learned Blockchain implementation ||
 |Day 5|November 24, 2021| Created Blockchain in Python ||
 |Day 6|November 25, 2021| Dayyy off - Shopping 😁 ||
+|Day 7|November 26, 2021| Merge Two Sorted List | [Problem](https://leetcode.com/problems/merge-two-sorted-lists)|
+|Day 8|November 27, 2021| Remove Duplicates from Sorted Array | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|
+|Day 9|November 28, 2021| Remove Element | [Problem](https://leetcode.com/problems/remove-element)|
+|Day 10|November 29, 2021| Implement strStr() | [Problem](https://leetcode.com/problems/implement-strstr)|
+|Day 11|November 30, 2021| Search Insert Position | [Problem](https://leetcode.com/problems/search-insert-position)|
