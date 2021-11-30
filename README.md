@@ -6,6 +6,7 @@ Gonna (atleast) try to maintain 200 days streak of solving Python problems from 
  - Atleast do 1 problem daily for 200 days
  - Problems can be of any level, but will try my best.
  - Can take a few days off, but reasons must be justified.
+ - README need to be updated WEEKLY
 
 Happy Coding :)
 
