@@ -13,3 +13,5 @@ x = [0,1,2,2,3,0,4,2]
 removeElement(x, 2)
 
 print(x)
+
+# https://leetcode.com/problems/remove-element/
