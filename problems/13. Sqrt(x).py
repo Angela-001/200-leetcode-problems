@@ -15,3 +15,5 @@ def mySqrt(x):
     return x
 
 print(mySqrt(67))
+
+# https://leetcode.com/problems/sqrtx/
